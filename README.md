@@ -29,7 +29,8 @@ num2 = temp
 print("Swapped values are:",num1,num2)
 
 ## OUTPUT:
-![Uploading Screenshot_20230314_090032.png…]()
+![Screenshot_20230314_090032](https://user-images.githubusercontent.com/119393642/225068149-8f335304-8819-4172-b497-d9f3bc9c805a.png)
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
